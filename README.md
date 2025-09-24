@@ -6,6 +6,6 @@
 </head>
 <body>
     <h1>Desafio do Modulo 3 do Curso de HTML-CSS do Curso em Vídeo</h1>
-    <p><a href="index.html">Projeto Cordel</a></p>
+    <p><a href="https://github.com/anaflavia010/Projeto_Cordel">Projeto Cordel</a></p>
 </body>
 </html>
